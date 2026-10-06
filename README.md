@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sarvamanasa"><img src="https://img.shields.io/badge/LinkedIn-sarvamanasa-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/Manasa-Sarva"><img src="https://img.shields.io/badge/GitHub-Manasa--Sarva-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:sarvabalasaimanasa@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:sarvasaimanasa@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 Glad to see you here! I'm **Manasa**, an IT professional from Hyderabad with **2.7 years of experience in ServiceNow incident management (ITSM)** at Capgemini, now **transitioning into software development** as a **Java Full Stack / Frontend engineer**. I was recognized as **Best Performer (2024-25)** at Capgemini and served as backup lead on a client-facing project.
