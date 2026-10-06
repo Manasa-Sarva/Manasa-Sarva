@@ -3,12 +3,12 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sarvamanasa"><img src="https://img.shields.io/badge/LinkedIn-sarvamanasa-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/Manasa-Sarva"><img src="https://img.shields.io/badge/GitHub-Manasa--Sarva-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:sarvasaimanasa@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:sarvabalasaimanasa@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 Glad to see you here! I'm **Manasa**, an IT professional from Hyderabad with **2.7 years of experience in ServiceNow incident management (ITSM)** at Capgemini, now **transitioning into software development** as a **Java Full Stack / Frontend engineer**. I was recognized as **Best Performer (2024-25)** at Capgemini and served as backup lead on a client-facing project.
 
-Currently, I'm sharpening my **Java, Spring Boot, and React.js** skills and building portfolio projects that I'll publish here. My production-support background taught me how real systems are monitored and how they fail, and I bring that reliability mindset to the code I write.
+Since June 2026, I've also been working as a **Bench Sales Recruiter at BridgePoint Recruiters**, while I sharpen my **Java, Spring Boot, and React.js** skills and build portfolio projects that I'll publish here. My production-support background taught me how real systems are monitored and how they fail, and I bring that reliability mindset to the code I write.
 
 ---
 
@@ -49,7 +49,16 @@ When your first project is ready, replace the paragraph above with:
 
 ---
 
-### Experience Highlights
+### Current Role
+
+**Bench Sales Recruiter, BridgePoint Recruiters LLC** (Jun 2026 to present)
+
+- Handle bench sales for consultant profiles across **IT**, **Control & Automation**, and **Quality Assurance**.
+- Screen profiles against role requirements, which shows me what hiring teams look for in technical candidates.
+
+---
+
+### Experience Highlights (Capgemini, 2022-25)
 
 - Managed **40-50 ServiceNow incident tickets daily**, keeping updates timely and SLAs on track.
 - Triaged incidents by priority and impact and routed them to the right resolver groups.
@@ -69,7 +78,7 @@ When your first project is ready, replace the paragraph above with:
 
 ### Let's connect!
 
-I'm open to **entry-level Java Full Stack, Backend (Java / Spring Boot), and Frontend (React.js) roles** in Hyderabad, Bengaluru, or remote. Reach me on [LinkedIn](https://www.linkedin.com/in/sarvamanasa) or [email](mailto:sarvasaimanasa@gmail.com).
+I'm open to **entry-level Java Full Stack, Backend (Java / Spring Boot), and Frontend (React.js) roles** in Hyderabad, Bengaluru, or remote. Reach me on [LinkedIn](https://www.linkedin.com/in/sarvamanasa) or [email](mailto:sarvabalasaimanasa@gmail.com).
 
 Let's learn, build, and grow together!
 
