@@ -60,7 +60,7 @@ When your first project is ready, replace the paragraph above with:
 
 ### Experience Highlights (Capgemini, 2022-25)
 
-- Managed **40-50 ServiceNow incident tickets daily**, keeping updates timely and SLAs on track.
+- Managed **60-70 ServiceNow incident tickets daily**, keeping updates timely and SLAs on track.
 - Triaged incidents by priority and impact and routed them to the right resolver groups.
 - Built and maintained **ServiceNow reports and dashboards** tracking incident trends, backlog, and SLA performance.
 - Coordinated with resolver teams and stakeholders on critical incidents, and flagged recurring issues for problem management.
